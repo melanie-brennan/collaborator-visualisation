@@ -9,7 +9,7 @@ The researcher represented by node “21012” collaborated with a range of auth
 This project was completed as part of a Data and Visual Analytics assignment at Georgia Institute of Technology.
 
 
-### Results for the most collaborating author ("21012")
+### Results
  
 ![Graph of collaborators ID](graph_collaborators_id.png "Graph of collaborators ID") 
 
