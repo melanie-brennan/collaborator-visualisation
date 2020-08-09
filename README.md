@@ -22,4 +22,5 @@ http://snap.stanford.edu/data/ca-GrQc.html
 
 ### References
 http://kateto.net/network-visualization
+
 https://stackoverflow.com/questions/49809744/how-to-subset-a-large-igraph-to-just-one-node-and-its-connected-nodes-using-r
