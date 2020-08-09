@@ -8,13 +8,17 @@ The researcher represented by node “21012” collaborated with a range of auth
 
 This project was completed as part of a Data and Visual Analytics assignment at Georgia Institute of Technology.
 
-Author "21012"'s collaborators                 |  
-:---------------------------------------------:|:----------------------------------------------:
-![Graph of collaborators ID](graph_collaborators_id.png "Graph of collaborators ID") | ![Graph of collaborators numbers](graph_collaborators_numbers.png "Graph of collaborators numbers") 
+
+### Results for the most collaborating author ("21012")
+ 
+![Graph of collaborators ID](graph_collaborators_id.png "Graph of collaborators ID") 
+
+![Graph of collaborators numbers](graph_collaborators_numbers.png "Graph of collaborators numbers") 
 
 
 ### Data set 
 http://snap.stanford.edu/data/ca-GrQc.html
+
 
 ### References
 http://kateto.net/network-visualization
